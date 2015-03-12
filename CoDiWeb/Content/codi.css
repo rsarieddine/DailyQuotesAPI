@@ -1,0 +1,52 @@
+﻿/*#region "MainMenu" */
+.codi {
+    color: #ba55d3;
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    -moz-animation: ease-in 4s ease 3 nomral;
+    -o-animation: ease-in 4s ease 3 nomral;
+    -webkit-animation: ease-in 4s ease 3 nomral;
+    animation: ease-in 4s ease 3 nomral;
+}
+
+    .codi p {
+        font-family: 'Arabic Typesetting';
+    }
+
+        .codi p a {
+            text-decoration: none;
+            font-size: 16px;
+        }
+
+            .codi p a.acodi {
+            }
+
+.codi2 {
+    color: red;
+}
+
+.codi3 {
+    color: rgba(10, 120, 43, 0.41);
+}
+/*#endregion */
+
+.code4 {
+    -moz-animation: ease-in 4s ease 3 normal;
+    -o-animation: ease-in 4s ease 3 normal;
+    -webkit-animation: ease-in 4s ease 3 normal;
+    animation: ease-in 4s ease 3 normal;
+    background-image: url('images/10 Sign.jpg');
+    color: #ffcc00;
+    -moz-transform: matrix(-90deg);
+    -ms-transform: matrix(-90deg);
+    -o-transform: matrix(-90deg);
+    -webkit-transform: matrix(-90deg);
+    transform: matrix(-90deg);
+}
+/*#region header*/
+/*#endregion*/
+/*#region footer*/
+/*#endregion*/
